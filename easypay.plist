@@ -24,7 +24,6 @@
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/yuanlingqi/chintPublish/master/fullsizeLog.jpg</string>
-					<string>https://bi.chint.com:8443/ChintData/static/img/install/fullsizeLog.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
